@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #1acc8d;
+  border: 6px solid #74B27F;
   border-top-color: #d2f9eb;
   border-radius: 50%;
   width: 60px;
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #1acc8d;
+  background: #74B27F;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #2be4a2;
+  background: #599163;
   color: #fff;
 }
 .back-to-top.active {
@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: rgba(255, 211, 80, 0.8);
+  color: rgba(255, 211, 80, 1);
 }
 #hero h1 span {
   color: #fff;
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h3 {
   color: rgba(245, 244, 232, 0.8);
   margin-bottom: 40px;
-  font-size: 22px;
+  font-size: 20px;
 }
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
@@ -683,14 +683,14 @@ section {
   font-size: 14px;
 }
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/aboutt.jpg") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);
+  background: radial-gradient(#74B27F 50%, rgba(116, 178, 127, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -729,13 +729,13 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(63, 67, 253, 0.7);
+  border: 5px solid rgba(116, 178, 127, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
 }
 .about .play-btn:hover::after {
-  border-left: 15px solid #3f43fd;
+  border-left: 15px solid #74B27F;
   transform: scale(20);
 }
 .about .play-btn:hover::before {
@@ -815,7 +815,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: #f5f5ff;
+  background: #f9fffa;
   padding: 70px 0 60px;
 }
 .counts .count-box {
@@ -879,7 +879,7 @@ section {
   padding-right: 4px;
   color: rgb(20, 155, 108);
 }
-.details .content p:last-child {
+.details  .content p:last-child {
   margin-bottom: 0;
 }
 
@@ -1136,7 +1136,7 @@ section {
   transition: 0.3s;
 }
 .pricing .btn-buy:hover {
-  background: rgb(20, 151, 105);
+  background: #599163;
 }
 .pricing .featured h3 {
   color: #fff;

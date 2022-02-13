@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+## About The Project
 
-Template Name: Bootslander
-Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Project ini bertujuan sebagai salah satu wadah tempat pelaksanaan campaign #BanggaPunyaKantongBelanja 
+yang dilaksanakan oleh kelompok 7 calon Super Team Teens Go Green. 
+
