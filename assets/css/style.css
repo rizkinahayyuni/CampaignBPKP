@@ -1165,6 +1165,28 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Visitor Counter
+--------------------------------------------------------------*/
+.visco .box {
+  padding: 5px;
+  background: #fff;
+  text-align: center;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.12);
+  border-radius: 5px;
+  position: relative;
+  overflow: hidden;
+}
+.visco h6 {
+  font-weight: 200;
+  margin: -10px -10px 10px -10px;
+  padding: 10px 10px;
+  font-size: 12px;
+  font-weight: 400;
+  color: #74B27F;
+  background: #fff;
+}
+
+/*--------------------------------------------------------------
 # F.A.Q
 --------------------------------------------------------------*/
 .faq .faq-list {
